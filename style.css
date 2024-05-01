@@ -1,0 +1,75 @@
+.bg-container {
+    background-color: #ffcd9e;
+    width: 100%;
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+}
+.container {
+    height: 100vw;
+}
+.para {
+    color: #484848;
+}
+.para-2 {
+    color: #282828;
+    font-weight: bold;
+}
+.input {
+    background-color: #ffffff;
+    color: #888888;
+    height: 20px;
+    padding: 10px;
+    border-color: #282828;
+    border-style: solid;
+    border-radius: 7px;
+    width: 200px;
+}
+
+.button{
+    background-color: #282828;
+    color: #ffffff;
+    padding: 10px;
+    width: 150px;
+    height: 45px;
+    border: 0;
+    border-radius: 10px;
+}
+.para-3 {
+    color: #ffffff;
+    margin-top: 30px;
+}
+.image {
+    height: 300px;
+}
+.details {
+    margin-left: 150px;
+}
+.image-container {
+    margin-right: 150px;
+}
+.bottom-container {
+    background-color: #282828;
+    padding: 20px;
+    color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.bottom-1 {
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+.images {
+    text-align: right;
+    margin-bottom: 20px;
+}
+.bottom-2 {
+    margin-right: 100px;
+    text-align: right;
+    margin-bottom: 20px;
+
+}
